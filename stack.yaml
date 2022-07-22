@@ -1,0 +1,10 @@
+resolver: lts-17.5
+
+packages:
+- .
+
+extra-deps:
+  - cobot-io-0.1.4.4
+  - cobot-0.1.1.7
+  - hyraxAbif-0.2.3.27
+  - protolude-0.3.0
